@@ -1,0 +1,8 @@
+name: intro-nlp-environment
+channels:
+  - conda-forge
+dependencies:
+  - os
+  - pip
+  - sys
+  - pandas
