@@ -3,7 +3,4 @@ channels:
   - conda-forge
 dependencies:
   - pandas
-  - pip
-    - spacy
-    - sys
-    - os
+  - spacy
